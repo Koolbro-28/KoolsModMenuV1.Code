@@ -1,0 +1,35 @@
+cd ./KoolsModMenu-0.10.1
+chmod u+x koolsmodmenu
+sudo apt-get install mods
+download.exe file
+./Mod manger.exe installtion 
+koolsModMenu.exer
+koolsModMenu.ubuntu.zip
+koolsModMenu.mac.dmg
+Soruce code(zip)
+multiplayerMods(UsedOnlyInPrivateLobbys)
+RedModMenu(9.0.0)
+WhiteText(9.9.9)
+ModdedComputer(7.32.48)(Lobby.Color.Queue.Friends.ModManger)
+ModrenPC
+MapLoadCode(5.28.12)SelectedInRoom
+ColorGray(9.9,7)
+GameModeTable(Better)
+ModdedGameModes(hideAndSeek.CheeseTouch.ModdedCasual.ModdedInfection.ModdedHunt)
+ModdedCosmeticStand(Skins.Modded.Hats.Face.Bages.holodables)
+Skins(pixel,rainbow,neo,hackertext,galaxy)
+Modded.Hats(crown.bearEars.)
+Modded.face(AmongusVisor.)
+Modded.hand(stick.Iphone13.magicwand.bubbleStick.waterBottle.Milk.(octiaHeriloom).lightsaber.quest2Contrallers)
+(octainHeriloom)apex Legends speacil
+Branch(NextToMirror)
+MoreCosmetics
+BetterThanOtherMods
+MangosTrash
+EyeRockTrash
+UploadOnGitHub
+SAFEInstalltion(NoVIRUSES)
+LinuxInstructions(1.Download"koolsModMenu.ubuntu.zip)(2.Open It And Drag Licence and modmenu to linux Floder)(3.Open QuestPatcher and drag mods)
+Windows10-11Instructions(Download"KoolsModMenu.exe"And Open It)(Click the mods you want and install(AirLink and Steam VR required)(The mods will transfer to SteamVR GorillaTag)
+MacInstructions(Downlod"koolsModMenu.mac.dmg and open it)(open QuestPatcher and drag mods.
+Enjoy the Mods(^_^)
